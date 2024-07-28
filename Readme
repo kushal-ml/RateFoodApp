@@ -1,0 +1,38 @@
+Mobile Application development Assignment#2
+
+# Rate Food App
+
+This is a basic food rating app developed in Kotlin using Android Studio.
+
+## Features
+- Select Food
+- Rate Food
+
+## Prerequisites
+
+- Android Studio [Download here](https://developer.android.com/studio)
+- A Git client [Download here](https://git-scm.com/)
+- An Android device or emulator for testing
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/kushal-ml/LRateFoodApp.git
+
+2. Open the project in Android Studio:
+
+Open Android Studio.
+Click on File > Open....
+Navigate to the cloned repository folder and select it.
+Click OK.
+
+3. Sync the project with Gradle:
+
+Android Studio should automatically start syncing the project. If not, click on File > Sync Project with Gradle Files.
+
+4. Run the project:
+
+Connect your Android device or start an emulator.
+Click on the green Run button or press Shift + F10

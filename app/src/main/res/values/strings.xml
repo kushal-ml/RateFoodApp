@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Favourite Food</string>
+<string-array name="food_items">
+    <item>Pizza</item>
+    <item>Burger</item>
+    <item>Sandwich</item>
+    <item>Salad</item>
+    <item>Fries</item>
+    <item>Chicken</item>
+    <item>Steak</item>
+    <item>Sushi</item>
+    <item>Tacos</item>
+    <item>Ice Cream</item>
+</string-array>
+</resources>
